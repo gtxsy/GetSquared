@@ -1,6 +1,6 @@
 DATE=`date +%Y-%m-%d`
 localPATH=`pwd` 
-mother_repo='http://www.github.com/NoahBeckerman/GetSquared'
+mother_repo='http://www.github.com/gtxsy/GetSquared'
 total_repo_commits=$(git rev-list --all --count)
 re='^[0-9]+$'
 min_value=0
